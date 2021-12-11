@@ -1,0 +1,14 @@
+{
+  "name": "test-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.test.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
